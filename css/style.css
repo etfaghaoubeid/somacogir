@@ -2166,3 +2166,8 @@ h5,
   color: #fff;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 }
+
+
+.nav-item:hover>.dropdown-menu {
+  display: block;
+}
