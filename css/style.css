@@ -6163,3 +6163,7 @@ ul.sericon li i {
     color: red;
     font-size: 14px;
 }
+
+.up-nav-contact a :hover {
+    cursor: pointer;
+}
