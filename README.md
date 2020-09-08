@@ -1,1 +1,2 @@
 # somacogir wedsite. 
+static website
