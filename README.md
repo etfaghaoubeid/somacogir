@@ -1,2 +1,2 @@
-# somacogir wedsite.
+# somacogir wedsite
 ## static website.
