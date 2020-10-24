@@ -1,2 +1,2 @@
-# somacogir website
+# somacogir website.
 ## static website 
